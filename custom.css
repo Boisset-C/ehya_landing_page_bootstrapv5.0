@@ -1,5 +1,10 @@
 /* Global Styles */
-
+body {
+  font-family: "Roboto", sans-serif;
+}
+a {
+  text-decoration: none;
+}
 /* Nav Styles */
 
 /* Hero Styles */
