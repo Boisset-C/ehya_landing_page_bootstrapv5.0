@@ -5,14 +5,13 @@ body {
 a {
   text-decoration: none;
 }
-/* Nav Styles */
+/* Nav Section Styles */
 
-/* Hero Styles */
+/* Hero Section Styles */
 .btn:hover {
   color: #0d6efd !important;
 }
 
-/* Collaborate Section */
-.bullet-override {
-  list-style-image: url("./assets/collab-img/list-style.png");
-}
+/* Collaborate Section Styles */
+
+/* Integrate Section Styles */
