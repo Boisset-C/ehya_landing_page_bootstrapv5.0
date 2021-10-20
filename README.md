@@ -1,3 +1,9 @@
 An Example Landing page I built using BootStrap V5.0:
 
-![image](https://cdn.discordapp.com/attachments/761355086717779979/900455131588460624/unknown.png)
+DESKTOP VIEW:
+
+![image](assets/readme-img/ehya_landing_desktop.png)
+
+MOBILE VIEW:
+
+![image](assets/readme-img/ehya_landing_mobile.png)
